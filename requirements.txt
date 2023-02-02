@@ -4,3 +4,4 @@ pytest
 pandas
 matplotlib==3.5.2
 seaborn==0.12.1
+rich

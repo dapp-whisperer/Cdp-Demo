@@ -6,6 +6,7 @@ reports/
 .env
 
 node_modules/
+venv/
 
 # logging output
 logs/
